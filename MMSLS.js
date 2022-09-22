@@ -20,9 +20,9 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "",
-    "",
-    "",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
   ]
   /**
    * 生成随机数字
@@ -32,12 +32,7 @@ const MMSLS = [
   function randomNumber(min = 0, max = 100) {
     return Math.min(Math.floor(min + Math.random() * (max - min)), max);
   }
-  const MMSL_random = MMSLS[
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
-  
-  ];
+  const MMSL_random = MMSLS[randomNumber(0, MMSLS.length)];
   
   module.exports = {
     MMSL_random
