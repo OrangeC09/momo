@@ -1,4 +1,4 @@
-name: Click分享Link
+name: 每日刷墨墨
 on:
   push:
     branches:
