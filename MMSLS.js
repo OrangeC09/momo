@@ -6,9 +6,9 @@
 
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
-    "https://www.maimemo.com/share/page?uid=19253996&pid=f62f1eb90c10f34621418cb12be7fdf4&tid=c015ae0c5dcf907057262df34abad24d",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=7a86f6b1db9c12a1bfcbba69de6006c3&tid=eeffb5332326d14c47cf17ca58e181c8",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=7a86f6b1db9c12a1bfcbba69de6006c3&tid=eeffb5332326d14c47cf17ca58e181c8",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=7a86f6b1db9c12a1bfcbba69de6006c3&tid=eeffb5332326d14c47cf17ca58e181c8",
   ]
 =====================以上为范例！=====================
 
