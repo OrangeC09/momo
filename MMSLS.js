@@ -20,7 +20,7 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://www.maimemo.com/share/page?uid=19253996&pid=2b676dfc087f07e8a11e88de5e2d2c4a&tid=79c0e79032e67fded9cc1893965a6475",
+    "https://www.maimemo.com/share/page?uid=19253996&pid=3e108de098a5c6296ba79991ca43edd5&tid=ede89cbb2402c5a7b9dc3817bea95021",
   ]
   /**
    * 生成随机数字
